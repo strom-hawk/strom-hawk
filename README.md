@@ -7,15 +7,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/%20-%20Saurav-2980b9?style=flat&logo=linkedin)](mailto:sauravsuman001@hotmail.com)
 [![Email Badge](https://img.shields.io/badge/%20-%20sauravsuman001@hotmail.com-3498db?style=flat&logo=Gmail&logoColor=white)](mailto:sauravsuman001@hotmail.com)
 
-<br />
-
 ## ⚡ Tools and Technologies
-
-
-
-[phone]: +919693848880
-[email]: sauravsuman001@hotmail.com
-[linkedin]:https://www.linkedin.com/in/saurav-suman/
+![Android](https://img.shields.io/badge/%20-%20Android-4CAF50?style=flat&logo=android)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=strom-hawk&show_icons=true)
