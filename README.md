@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate with other projects
 - ⚡ Fun fact: I love to play pubg mobile, football and table tennis
 
-
-### Connect with me:
+[![LinkedIn Badge](https://img.shields.io/badge/%20-%20Saurav-3498db?style=flat&logo=linkedin)](mailto:sauravsuman001@hotmail.com)
 [![Email Badge](https://img.shields.io/badge/%20-%20sauravsuman001@hotmail.com-3498db?style=flat&logo=Gmail&logoColor=white)](mailto:sauravsuman001@hotmail.com)
 
 <br />
