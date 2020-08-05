@@ -10,7 +10,7 @@
 ## ⚡ Tools and Technologies
 ![Android](https://img.shields.io/badge/%20-%20Android-4CAF50?style=flat&logo=android)
 ![Kotlin](https://img.shields.io/badge/%20-%20Kotlin-1e272e?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/%20-%20Java-3498db?style=flat&logo=java)
+![Java](https://img.shields.io/badge/%20-%20Java-FEA47F?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/%20-%20C++-2980b9?style=flat&logo=c++)
 ![Git](https://img.shields.io/badge/%20-%20Git-1e272e?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/%20-%20GitHub-34495e?style=flat&logo=github)
