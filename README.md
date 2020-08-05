@@ -6,7 +6,6 @@
 
 
 ### Connect with me:
-[https://img.shields.io/badge/%20-%20Saurav-3498db?style=flat&logo=linkedin](https://www.linkedin.com/in/saurav-suman/)
 [![Email Badge]([https://img.shields.io/badge/%20-%20sauravsuman001@hotmail.com-3498db?style=flat&logo=Gmail&logoColor=white](mailto:sauravsuman001@hotmail.com)
 
 <br />
