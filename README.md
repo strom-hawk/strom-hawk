@@ -1,4 +1,4 @@
-### Hi there, I'm Saurav - aka [strom-hawk] <img src="https://raw.githubusercontent.com/RykerXE/RykerXE/master/wave.gif" width="30px"
+### Hi there, I'm Saurav - aka [strom-hawk] <img src="https://raw.githubusercontent.com/strom-hawk/strom-hawk/master/wave.gif" width="30px"
 ## I'm an Developer, Student and an Open Source Enthusiast!
 - 🔭 I’m currently working as an Android Developer at [Comviva](https://www.comviva.com/)
 - 👯 I’m looking to collaborate with other projects
