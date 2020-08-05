@@ -6,7 +6,7 @@
 
 
 ### Connect with me:
-[![Email Badge]([https://img.shields.io/badge/%20-%20sauravsuman001@hotmail.com-3498db?style=flat&logo=Gmail&logoColor=white](mailto:sauravsuman001@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/%20-%20sauravsuman001@hotmail.com-3498db?style=flat&logo=Gmail&logoColor=white)](mailto:sauravsuman001@hotmail.com)
 
 <br />
 
