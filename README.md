@@ -19,4 +19,4 @@
 [linkedin]:https://www.linkedin.com/in/saurav-suman/
 
 
-https://github-readme-stats.vercel.app/api?username=strom-hawk&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RykerXE&show_icons=true)
