@@ -1,6 +1,6 @@
 ### Hi there, I'm Saurav - aka [strom-hawk] <img src="https://raw.githubusercontent.com/strom-hawk/strom-hawk/master/wave.gif" width="30px">
 ## I'm a Problem Solver, Developer, Student and an Open Source Enthusiast!
-- 🔭 I’m currently working as an SDE-I at [FlashPrep](https://flashprep.io/)
+- 🔭 I’m currently working as an SDE-II at Teachmint
 - 👯 I’m looking to collaborate with other projects
 - ⚡ Fun fact: I love to play pubg mobile, football and table tennis
 
